@@ -13,7 +13,7 @@ end
 % threshold = graythresh(Maze);
 % Maze_Binary = im2bw(Maze,threshold);
 Maze_Binary = imbinarize(Maze,graythresh(Maze)-0.1); % Make sure to have black walls and white path 
-% There should not be any broken walls, walls should be seperate rom boundary of images  
+% There should not be any broken walls, walls should be seperate from boundary of images  
 disp(size(Maze_Binary))
 figure,imshow(Maze_Binary);title('Binary Maze');
 %% Start Solving 
