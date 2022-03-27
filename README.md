@@ -1,6 +1,6 @@
 # Amaze-Maze-Solver-Application
 
-Amaze is an application developed in MATLAB using Image Processing which can find a path between two points in a Perfect Maze (Maze with only two openings).
+__Amaze is an application developed in MATLAB using Image Processing which can find a path between two points in a Perfect Maze (Maze with only two openings).__
 
 ![SplashImage](https://user-images.githubusercontent.com/68781375/160293047-7d39380c-1f92-425d-b573-fdd3fc31c009.JPG)
 
@@ -8,7 +8,13 @@ Amaze is an application developed in MATLAB using Image Processing which can fin
 
 __Watershed Transform:__
 
+* _The watershed transform finds "catchment basins" or "watershed ridge lines" in an image by treating it as a surface where light pixels represent high elevations and dark pixels represent low elevations._ 
+
+* _The watershed transform can be used to segment contiguous regions of interest into distinct objects._
+
 * _It segements the image in parts enclosed by water paths assuming water was dropped from top of the image._
+
+More details: https://in.mathworks.com/help/images/ref/watershed.html
 
 ## GUI Interface
 
