@@ -28,6 +28,10 @@ More details: https://in.mathworks.com/help/images/ref/watershed.html
 
 ![AppScreenshot-3](https://user-images.githubusercontent.com/68781375/160293621-917c600a-918f-4280-b320-ea1c4496a8f3.JPG)
 
+## Demo Video with Explanation
+
+https://user-images.githubusercontent.com/68781375/162617228-81e9775d-5fdf-41ed-a914-ebda9b895c88.mp4
+
 ##
 
 __<ins>NOTE:</ins>__ 
